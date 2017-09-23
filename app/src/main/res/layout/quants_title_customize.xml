@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/bg_login"
+        app:cardCornerRadius="10dp"
+        app:elevation="5dp">
+
+        <TextView
+            android:id="@+id/quants_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-smallcaps"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="Time and Travel"
+            android:textSize="25sp" />
+
+        <!--<TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/email_icon"
+            android:drawablePadding="20dp"
+            android:padding="5dp"
+            android:text="My Compound Button" />-->
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93044715045",
+    "firebase_url": "https://collegecircullar.firebaseio.com",
+    "project_id": "collegecircullar",
+    "storage_bucket": "collegecircullar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93044715045:android:a4874cfc50b7f91f",
+        "android_client_info": {
+          "package_name": "example.com.collegecircullar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93044715045-rfmfec3ms67pfr7j4d7rrphq5hfgakop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.collegecircullar",
+            "certificate_hash": "00466bb65bcb71c4e2d6cf0e3b313ac50c62791f"
+          }
+        },
+        {
+          "client_id": "93044715045-trrkue1bcri8pnorf054bjf2kvbvukee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKyu2LleLSPJIt0uwXG_cDF0SpOUv4gg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93044715045-trrkue1bcri8pnorf054bjf2kvbvukee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
